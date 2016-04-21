@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Airport/ndb.ac -159.597908 61.590169 14 180
+OBJECT_SHARED Models/Airport/ils.xml -159.554333 61.583275 17.19 240.81
+OBJECT_SHARED Models/Communications/radio-medium.xml -159.598056 61.59 -161.02 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -159.592778 61.583056 -159.75 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -159.538611 61.578056 -164.41 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -159.524783 61.576961 14 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -159.527778 61.575556 -469.54 180
+OBJECT_SHARED Models/Airport/localizer.xml -159.525681 61.576586 14.68 211.25
