@@ -25,3 +25,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -151.034782 60.545793 57.44 286.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -151.03381 60.545892 57.82 359.41
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -151.030146 60.537905 69.16 286.12
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -151.025185 60.545814 64.25 358.95
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -151.24780 60.56399 0.00 0
+# END dsf2stg

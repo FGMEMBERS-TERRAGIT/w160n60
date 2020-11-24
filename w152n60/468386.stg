@@ -5,3 +5,11 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -151.272222 60.510278 -87.5
 OBJECT_SHARED Models/Communications/radio-medium.xml -151.255 60.558889 -162.45 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -151.253056 60.556111 -133.05 180
 OBJECT_SHARED Models/Airport/localizer.xml -151.260767 60.561167 22.18 301
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -151.25571 60.56147 26.87 244.98
+OBJECT_SHARED Models/lib/prop_a.ac -151.25572 60.56175 26.11 62.2
+OBJECT_SHARED Models/lib/prop_a.ac -151.25201 60.56243 26.13 242.85
+OBJECT_SHARED Models/lib/prop_a.ac -151.25275 60.56223 26.52 64.29
+# END dsf2stg

@@ -7,3 +7,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -150.034308 61.280991 28.28 182.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -150.034273 61.281253 28.25 227.13
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -150.014482 61.282574 28.46 196.34
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -150.001647 61.285421 33.36 195.84
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -150.03238 61.25018 18.01 270
+OBJECT_SHARED Models/lib/cars4.ac -150.03135 61.25022 22.81 0
+# END dsf2stg
